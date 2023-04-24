@@ -1,0 +1,15 @@
+E:\มหาลัย\code mdt112\haha\bin\Debug\net7.0\haha.exe
+E:\มหาลัย\code mdt112\haha\bin\Debug\net7.0\haha.deps.json
+E:\มหาลัย\code mdt112\haha\bin\Debug\net7.0\haha.runtimeconfig.json
+E:\มหาลัย\code mdt112\haha\bin\Debug\net7.0\haha.dll
+E:\มหาลัย\code mdt112\haha\bin\Debug\net7.0\haha.pdb
+E:\มหาลัย\code mdt112\haha\obj\Debug\net7.0\haha.csproj.AssemblyReference.cache
+E:\มหาลัย\code mdt112\haha\obj\Debug\net7.0\haha.GeneratedMSBuildEditorConfig.editorconfig
+E:\มหาลัย\code mdt112\haha\obj\Debug\net7.0\haha.AssemblyInfoInputs.cache
+E:\มหาลัย\code mdt112\haha\obj\Debug\net7.0\haha.AssemblyInfo.cs
+E:\มหาลัย\code mdt112\haha\obj\Debug\net7.0\haha.csproj.CoreCompileInputs.cache
+E:\มหาลัย\code mdt112\haha\obj\Debug\net7.0\haha.dll
+E:\มหาลัย\code mdt112\haha\obj\Debug\net7.0\refint\haha.dll
+E:\มหาลัย\code mdt112\haha\obj\Debug\net7.0\haha.pdb
+E:\มหาลัย\code mdt112\haha\obj\Debug\net7.0\haha.genruntimeconfig.cache
+E:\มหาลัย\code mdt112\haha\obj\Debug\net7.0\ref\haha.dll
